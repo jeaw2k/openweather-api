@@ -8,12 +8,6 @@ This project was created for educational purposes to gain practice in using Vue.
 npm install
 ```
 
-### Download library axios
-
-```sh
-npm i axios
-```
-
 ### Compile and Hot-Reload for Development
 
 ```sh
